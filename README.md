@@ -14,19 +14,18 @@ This project uses the [CrewAI](https://www.crewai.com/) framework with [Groq](ht
 ## Prerequisites
 - Python 3.10 or 3.11 (**3.12+ not supported**)
 - A free Groq API key from [console.groq.com](https://console.groq.com)
-- *(Optional)* A free Serper API key from [serper.dev](https://serper.dev) for live web search
 
 ## Setup
 
 **1. Create and activate a virtual environment**
 ```bash
-python -m venv .venv
+**python -m venv .venv
 
 # Windows
 .venv\Scripts\activate
 
 # macOS/Linux
-source .venv/bin/activate
+source .venv/bin/activate**
 ```
 
 **2. Install dependencies**
