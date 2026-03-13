@@ -12,7 +12,7 @@ This project uses the [CrewAI](https://www.crewai.com/) framework with [Groq](ht
 | ✍️ Report Writer | Compiles everything into a structured markdown report |
 
 ## Prerequisites
-- Python 3.10 or 3.11 (**3.12+ not supported**)
+- Python 3.10 or 3.11
 - A free Groq API key from [console.groq.com](https://console.groq.com)
 
 ## Setup
